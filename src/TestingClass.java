@@ -12,8 +12,10 @@ public class TestingClass {
         Colors MyFavColour = Colors.Red;
         System.out.println( MyFavColour);
         System.out.println( Colors.valueOf("Red"));
-        System.out.println(Colors.Red.ordinal());
+        System.out.println(Colors.Green.ordinal());
         System.out.println(Arrays.toString(Colors.values()));
+
+        System.out.println(Colors.Green.getValue());
     }
 
 
