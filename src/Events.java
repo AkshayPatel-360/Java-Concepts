@@ -6,8 +6,6 @@ import java.awt.event.ActionListener;
 
 public class Events  {
 
-    public int width ;
-    public int height;
     public Button button1;
     public Button button2;
     public JFrame frame;
