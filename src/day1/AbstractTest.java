@@ -1,3 +1,5 @@
+package day1;
+
 abstract class AbstractTest {
     int a ;
     String message;

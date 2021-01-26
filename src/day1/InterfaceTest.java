@@ -1,3 +1,5 @@
+package day1;
+
 interface InterfaceTest
 {
             public void WTFInterface();

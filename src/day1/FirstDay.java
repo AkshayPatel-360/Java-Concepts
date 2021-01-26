@@ -1,3 +1,5 @@
+package day1;
+
 import jdk.swing.interop.SwingInterOpUtils;
 
 import java.util.Scanner;
