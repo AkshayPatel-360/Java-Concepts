@@ -1,3 +1,4 @@
+/*
 package Airplane;
 
 import AirplaneException.*;
@@ -136,6 +137,24 @@ public class Airplane extends AirplaneAbstarct {
         }
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     public void decreaseAltitude() throws AirplaneCrashed, AirplaneStartedException, AirplaneIsOnTheLand, DecreasingTheAirplaneAltitude {
         crashed(altitude > 12000);
         decreasingTheAltitude(altitude - 1000);
@@ -175,3 +194,4 @@ public class Airplane extends AirplaneAbstarct {
         }
     }
 }
+*/

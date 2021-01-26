@@ -17,7 +17,7 @@ public class TestingClass {
 
         System.out.println(Colors.Green.getValue());*/
 
-        new Events();
+        //new Events();
 
 
     }
